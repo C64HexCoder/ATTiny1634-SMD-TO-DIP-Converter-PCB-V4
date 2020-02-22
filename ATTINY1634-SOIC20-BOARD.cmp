@@ -1,0 +1,59 @@
+Cmp-Mod V01 Created by CvPcb (2013-09-28 BZR 4356)-product date = 24/03/2014 16:38:12
+
+BeginCmp
+TimeStamp = /50ABE8B2;
+Reference = CON1;
+ValeurCmp = AVR-ISP-6;
+IdModule  = yossi:YS_AVR-ISP-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /53304298;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = LED-0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /53304150;
+Reference = P1;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /5330416E;
+Reference = P2;
+ValeurCmp = CONN_10;
+IdModule  = SIL-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /50ABEB55;
+Reference = R1;
+ValeurCmp = 10k;
+IdModule  = kicad:SM0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /53304332;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = SM0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /50B11E5B;
+Reference = SW1;
+ValeurCmp = BIG_TACTILE_SWITCH;
+IdModule  = yossi:BIG_TACTILE_SWITCH;
+EndCmp
+
+BeginCmp
+TimeStamp = /50ABE847;
+Reference = U1;
+ValeurCmp = ATTINY1634;
+IdModule  = kicad:SO20L;
+EndCmp
+
+EndListe

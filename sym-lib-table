@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name ATTINY1634-SOIC20-BOARD-rescue)(type Legacy)(uri ${KIPRJMOD}/ATTINY1634-SOIC20-BOARD-rescue.lib)(options "")(descr ""))
+)
